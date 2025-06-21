@@ -1,0 +1,14 @@
+/Users/kinshukbhattacharya/c#.net/FinancialForecastApp/bin/Debug/net9.0/FinancialForecastApp
+/Users/kinshukbhattacharya/c#.net/FinancialForecastApp/bin/Debug/net9.0/FinancialForecastApp.deps.json
+/Users/kinshukbhattacharya/c#.net/FinancialForecastApp/bin/Debug/net9.0/FinancialForecastApp.runtimeconfig.json
+/Users/kinshukbhattacharya/c#.net/FinancialForecastApp/bin/Debug/net9.0/FinancialForecastApp.dll
+/Users/kinshukbhattacharya/c#.net/FinancialForecastApp/bin/Debug/net9.0/FinancialForecastApp.pdb
+/Users/kinshukbhattacharya/c#.net/FinancialForecastApp/obj/Debug/net9.0/FinancialForecastApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kinshukbhattacharya/c#.net/FinancialForecastApp/obj/Debug/net9.0/FinancialForecastApp.AssemblyInfoInputs.cache
+/Users/kinshukbhattacharya/c#.net/FinancialForecastApp/obj/Debug/net9.0/FinancialForecastApp.AssemblyInfo.cs
+/Users/kinshukbhattacharya/c#.net/FinancialForecastApp/obj/Debug/net9.0/FinancialForecastApp.csproj.CoreCompileInputs.cache
+/Users/kinshukbhattacharya/c#.net/FinancialForecastApp/obj/Debug/net9.0/FinancialForecastApp.dll
+/Users/kinshukbhattacharya/c#.net/FinancialForecastApp/obj/Debug/net9.0/refint/FinancialForecastApp.dll
+/Users/kinshukbhattacharya/c#.net/FinancialForecastApp/obj/Debug/net9.0/FinancialForecastApp.pdb
+/Users/kinshukbhattacharya/c#.net/FinancialForecastApp/obj/Debug/net9.0/FinancialForecastApp.genruntimeconfig.cache
+/Users/kinshukbhattacharya/c#.net/FinancialForecastApp/obj/Debug/net9.0/ref/FinancialForecastApp.dll

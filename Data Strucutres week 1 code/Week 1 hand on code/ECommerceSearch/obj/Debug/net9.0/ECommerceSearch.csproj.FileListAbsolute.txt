@@ -1,0 +1,14 @@
+/Users/kinshukbhattacharya/c#.net/ECommerceSearch/bin/Debug/net9.0/ECommerceSearch
+/Users/kinshukbhattacharya/c#.net/ECommerceSearch/bin/Debug/net9.0/ECommerceSearch.deps.json
+/Users/kinshukbhattacharya/c#.net/ECommerceSearch/bin/Debug/net9.0/ECommerceSearch.runtimeconfig.json
+/Users/kinshukbhattacharya/c#.net/ECommerceSearch/bin/Debug/net9.0/ECommerceSearch.dll
+/Users/kinshukbhattacharya/c#.net/ECommerceSearch/bin/Debug/net9.0/ECommerceSearch.pdb
+/Users/kinshukbhattacharya/c#.net/ECommerceSearch/obj/Debug/net9.0/ECommerceSearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kinshukbhattacharya/c#.net/ECommerceSearch/obj/Debug/net9.0/ECommerceSearch.AssemblyInfoInputs.cache
+/Users/kinshukbhattacharya/c#.net/ECommerceSearch/obj/Debug/net9.0/ECommerceSearch.AssemblyInfo.cs
+/Users/kinshukbhattacharya/c#.net/ECommerceSearch/obj/Debug/net9.0/ECommerceSearch.csproj.CoreCompileInputs.cache
+/Users/kinshukbhattacharya/c#.net/ECommerceSearch/obj/Debug/net9.0/ECommerceSearch.dll
+/Users/kinshukbhattacharya/c#.net/ECommerceSearch/obj/Debug/net9.0/refint/ECommerceSearch.dll
+/Users/kinshukbhattacharya/c#.net/ECommerceSearch/obj/Debug/net9.0/ECommerceSearch.pdb
+/Users/kinshukbhattacharya/c#.net/ECommerceSearch/obj/Debug/net9.0/ECommerceSearch.genruntimeconfig.cache
+/Users/kinshukbhattacharya/c#.net/ECommerceSearch/obj/Debug/net9.0/ref/ECommerceSearch.dll

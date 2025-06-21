@@ -1,0 +1,14 @@
+/Users/kinshukbhattacharya/c#.net/FactoryPatternDemo/bin/Debug/net9.0/FactoryPatternDemo
+/Users/kinshukbhattacharya/c#.net/FactoryPatternDemo/bin/Debug/net9.0/FactoryPatternDemo.deps.json
+/Users/kinshukbhattacharya/c#.net/FactoryPatternDemo/bin/Debug/net9.0/FactoryPatternDemo.runtimeconfig.json
+/Users/kinshukbhattacharya/c#.net/FactoryPatternDemo/bin/Debug/net9.0/FactoryPatternDemo.dll
+/Users/kinshukbhattacharya/c#.net/FactoryPatternDemo/bin/Debug/net9.0/FactoryPatternDemo.pdb
+/Users/kinshukbhattacharya/c#.net/FactoryPatternDemo/obj/Debug/net9.0/FactoryPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kinshukbhattacharya/c#.net/FactoryPatternDemo/obj/Debug/net9.0/FactoryPatternDemo.AssemblyInfoInputs.cache
+/Users/kinshukbhattacharya/c#.net/FactoryPatternDemo/obj/Debug/net9.0/FactoryPatternDemo.AssemblyInfo.cs
+/Users/kinshukbhattacharya/c#.net/FactoryPatternDemo/obj/Debug/net9.0/FactoryPatternDemo.csproj.CoreCompileInputs.cache
+/Users/kinshukbhattacharya/c#.net/FactoryPatternDemo/obj/Debug/net9.0/FactoryPatternDemo.dll
+/Users/kinshukbhattacharya/c#.net/FactoryPatternDemo/obj/Debug/net9.0/refint/FactoryPatternDemo.dll
+/Users/kinshukbhattacharya/c#.net/FactoryPatternDemo/obj/Debug/net9.0/FactoryPatternDemo.pdb
+/Users/kinshukbhattacharya/c#.net/FactoryPatternDemo/obj/Debug/net9.0/FactoryPatternDemo.genruntimeconfig.cache
+/Users/kinshukbhattacharya/c#.net/FactoryPatternDemo/obj/Debug/net9.0/ref/FactoryPatternDemo.dll

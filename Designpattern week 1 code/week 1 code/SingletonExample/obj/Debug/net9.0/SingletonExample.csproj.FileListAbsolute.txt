@@ -1,0 +1,14 @@
+/Users/kinshukbhattacharya/c#.net/SingletonExample/bin/Debug/net9.0/SingletonExample
+/Users/kinshukbhattacharya/c#.net/SingletonExample/bin/Debug/net9.0/SingletonExample.deps.json
+/Users/kinshukbhattacharya/c#.net/SingletonExample/bin/Debug/net9.0/SingletonExample.runtimeconfig.json
+/Users/kinshukbhattacharya/c#.net/SingletonExample/bin/Debug/net9.0/SingletonExample.dll
+/Users/kinshukbhattacharya/c#.net/SingletonExample/bin/Debug/net9.0/SingletonExample.pdb
+/Users/kinshukbhattacharya/c#.net/SingletonExample/obj/Debug/net9.0/SingletonExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kinshukbhattacharya/c#.net/SingletonExample/obj/Debug/net9.0/SingletonExample.AssemblyInfoInputs.cache
+/Users/kinshukbhattacharya/c#.net/SingletonExample/obj/Debug/net9.0/SingletonExample.AssemblyInfo.cs
+/Users/kinshukbhattacharya/c#.net/SingletonExample/obj/Debug/net9.0/SingletonExample.csproj.CoreCompileInputs.cache
+/Users/kinshukbhattacharya/c#.net/SingletonExample/obj/Debug/net9.0/SingletonExample.dll
+/Users/kinshukbhattacharya/c#.net/SingletonExample/obj/Debug/net9.0/refint/SingletonExample.dll
+/Users/kinshukbhattacharya/c#.net/SingletonExample/obj/Debug/net9.0/SingletonExample.pdb
+/Users/kinshukbhattacharya/c#.net/SingletonExample/obj/Debug/net9.0/SingletonExample.genruntimeconfig.cache
+/Users/kinshukbhattacharya/c#.net/SingletonExample/obj/Debug/net9.0/ref/SingletonExample.dll
