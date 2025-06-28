@@ -1,0 +1,22 @@
+/Users/kinshukbhattacharya/Downloads/Parent project code/Parent PROJECT/CalcLibrary/bin/Debug/net9.0/CalcLibrary.deps.json
+/Users/kinshukbhattacharya/Downloads/Parent project code/Parent PROJECT/CalcLibrary/bin/Debug/net9.0/CalcLibrary.dll
+/Users/kinshukbhattacharya/Downloads/Parent project code/Parent PROJECT/CalcLibrary/bin/Debug/net9.0/CalcLibrary.pdb
+/Users/kinshukbhattacharya/Downloads/Parent project code/Parent PROJECT/CalcLibrary/obj/Debug/net9.0/CalcLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kinshukbhattacharya/Downloads/Parent project code/Parent PROJECT/CalcLibrary/obj/Debug/net9.0/CalcLibrary.AssemblyInfoInputs.cache
+/Users/kinshukbhattacharya/Downloads/Parent project code/Parent PROJECT/CalcLibrary/obj/Debug/net9.0/CalcLibrary.AssemblyInfo.cs
+/Users/kinshukbhattacharya/Downloads/Parent project code/Parent PROJECT/CalcLibrary/obj/Debug/net9.0/CalcLibrary.csproj.CoreCompileInputs.cache
+/Users/kinshukbhattacharya/Downloads/Parent project code/Parent PROJECT/CalcLibrary/obj/Debug/net9.0/CalcLibrary.dll
+/Users/kinshukbhattacharya/Downloads/Parent project code/Parent PROJECT/CalcLibrary/obj/Debug/net9.0/refint/CalcLibrary.dll
+/Users/kinshukbhattacharya/Downloads/Parent project code/Parent PROJECT/CalcLibrary/obj/Debug/net9.0/CalcLibrary.pdb
+/Users/kinshukbhattacharya/Downloads/Parent project code/Parent PROJECT/CalcLibrary/obj/Debug/net9.0/ref/CalcLibrary.dll
+/Users/kinshukbhattacharya/Desktop/WEEK2 DotnetDigitalNurture   Nunit Moq Handson/N UNIT HANDSON CODE/Parent PROJECT/CalcLibrary/bin/Debug/net9.0/CalcLibrary.deps.json
+/Users/kinshukbhattacharya/Desktop/WEEK2 DotnetDigitalNurture   Nunit Moq Handson/N UNIT HANDSON CODE/Parent PROJECT/CalcLibrary/bin/Debug/net9.0/CalcLibrary.dll
+/Users/kinshukbhattacharya/Desktop/WEEK2 DotnetDigitalNurture   Nunit Moq Handson/N UNIT HANDSON CODE/Parent PROJECT/CalcLibrary/bin/Debug/net9.0/CalcLibrary.pdb
+/Users/kinshukbhattacharya/Desktop/WEEK2 DotnetDigitalNurture   Nunit Moq Handson/N UNIT HANDSON CODE/Parent PROJECT/CalcLibrary/obj/Debug/net9.0/CalcLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kinshukbhattacharya/Desktop/WEEK2 DotnetDigitalNurture   Nunit Moq Handson/N UNIT HANDSON CODE/Parent PROJECT/CalcLibrary/obj/Debug/net9.0/CalcLibrary.AssemblyInfoInputs.cache
+/Users/kinshukbhattacharya/Desktop/WEEK2 DotnetDigitalNurture   Nunit Moq Handson/N UNIT HANDSON CODE/Parent PROJECT/CalcLibrary/obj/Debug/net9.0/CalcLibrary.AssemblyInfo.cs
+/Users/kinshukbhattacharya/Desktop/WEEK2 DotnetDigitalNurture   Nunit Moq Handson/N UNIT HANDSON CODE/Parent PROJECT/CalcLibrary/obj/Debug/net9.0/CalcLibrary.csproj.CoreCompileInputs.cache
+/Users/kinshukbhattacharya/Desktop/WEEK2 DotnetDigitalNurture   Nunit Moq Handson/N UNIT HANDSON CODE/Parent PROJECT/CalcLibrary/obj/Debug/net9.0/CalcLibrary.dll
+/Users/kinshukbhattacharya/Desktop/WEEK2 DotnetDigitalNurture   Nunit Moq Handson/N UNIT HANDSON CODE/Parent PROJECT/CalcLibrary/obj/Debug/net9.0/refint/CalcLibrary.dll
+/Users/kinshukbhattacharya/Desktop/WEEK2 DotnetDigitalNurture   Nunit Moq Handson/N UNIT HANDSON CODE/Parent PROJECT/CalcLibrary/obj/Debug/net9.0/CalcLibrary.pdb
+/Users/kinshukbhattacharya/Desktop/WEEK2 DotnetDigitalNurture   Nunit Moq Handson/N UNIT HANDSON CODE/Parent PROJECT/CalcLibrary/obj/Debug/net9.0/ref/CalcLibrary.dll
