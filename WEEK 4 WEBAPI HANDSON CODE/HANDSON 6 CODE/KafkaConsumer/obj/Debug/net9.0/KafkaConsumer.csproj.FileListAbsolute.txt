@@ -1,0 +1,4 @@
+C:\Users\KIIT\KafkaConsumer\obj\Debug\net9.0\KafkaConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\KafkaConsumer\obj\Debug\net9.0\KafkaConsumer.AssemblyInfoInputs.cache
+C:\Users\KIIT\KafkaConsumer\obj\Debug\net9.0\KafkaConsumer.AssemblyInfo.cs
+C:\Users\KIIT\KafkaConsumer\obj\Debug\net9.0\KafkaConsumer.csproj.CoreCompileInputs.cache
