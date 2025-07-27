@@ -1,0 +1,13 @@
+
+.box {
+    width: 300px; /* cite: 26 */
+    display: inline-block; /* cite: 27 */
+    margin: 10px; /* cite: 28 */
+    padding: 10px 20px; 
+    border: 1px solid black; /* 1px border in black color [cite: 31] */
+    border-radius: 10px; /* A border radius of 10px [cite: 32] */
+  }
+  
+  dt { 
+    font-weight: 500; 
+  }
